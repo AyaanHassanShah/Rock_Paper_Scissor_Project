@@ -1,52 +1,94 @@
-# 🪨📄✂️ Rock Paper Scissors Game
+# 📄✂️ Rock Paper Scissors Game (HTML, CSS & JavaScript)
 
 A simple and interactive **Rock Paper Scissors** game built using **HTML, CSS, and JavaScript**.  
-This project demonstrates basic DOM manipulation, game logic, and responsive UI design using vanilla web technologies.
+This project focuses on basic game logic, DOM manipulation, and clean UI design, making it ideal for beginners and frontend practice.
 
 ---
 
 ## 🚀 Features
 
-- Interactive user interface  
-- Player vs Computer gameplay  
-- Random computer choice generation  
-- Real-time result display (Win / Lose / Draw)  
-- Score tracking  
-- Clean and responsive design  
-- No external libraries or frameworks used  
+* Interactive user interface
+* Player vs Computer gameplay
+* Random computer move generation
+* Real-time result display (Win / Lose / Draw)
+* Score tracking
+* Clean and minimal UI
+* Built using **HTML5, CSS3 & JavaScript**
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **HTML5** – Structure of the game  
-- **CSS3** – Styling and layout  
-- **JavaScript (ES6)** – Game logic and interactivity  
+* **HTML5** – for structure
+* **CSS3** – for styling and layout
+* **JavaScript (ES6)** – for game logic and interactivity
+
 
 ---
 
-## 🎮 How to Play
+## 📂 Project Structure
 
-1. Open the game in your browser  
-2. Choose **Rock**, **Paper**, or **Scissors**  
-3. The computer will randomly select its choice  
-4. The result will be displayed instantly  
-5. Scores update after each round  
+```
+JavaScript/
+├── Channel-Pictures/            # Channel profile images
+├── Icons/                       # UI icons
+├── Styles/                      # CSS files
+├── Scripts/                     # Video thumbnail images
+└── Rock_Paper_Scissor.html      # Main HTML file
+
+```
+
 
 ---
 
-## 🧠 Game Rules
+## 🎯 Purpose of This Project
 
-- Rock beats Scissors  
-- Scissors beats Paper  
-- Paper beats Rock  
-- Same choices result in a draw  
+* Practice JavaScript fundamentals
+* Understand conditional logic
+* Learn DOM manipulation
+* Build a beginner-friendly game project
+
+
+---
+
+## ⚠️ Limitations
+
+* Single-player mode only
+* No animations or sound effects
+* Basic UI design
+
+
+---
+
+## 📌 Future Improvements
+
+* Add JavaScript for interactivity
+* Implement video playback
+* Improve responsiveness for all screen sizes
+* Add dark mode
 
 ---
 
 
-## 🔧 How to Run Locally
+## 🤝 Contributing
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/rock-paper-scissors.git
+Contributions are welcome! Feel free to fork this repository and submit a pull request.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 🙌 Acknowledgements
+
+* Inspired by the classic Rock Paper Scissors game
+* Built for learning and practice purposes
+
+---
+---
+
+### ⭐ If you like this project, give it a star!
+
